@@ -1,36 +1,52 @@
-# eCommerce Marketplace Portfolio — Wassam Waheed
+# eCommerce Marketplace Portfolio
 
-## eCommerce Marketplace Specialist
-**Amazon • Walmart • Shopify • eBay • Catalog Management • Listing Optimization • Marketplace Operations**
+## Wassam Waheed
 
-I help brands organize, optimize, troubleshoot, and scale product catalogs across major eCommerce marketplaces.
+**eCommerce Marketplace Specialist | Amazon • Walmart • Shopify • eBay**
 
-### Core Services
-- Amazon Seller Central catalog management
-- Walmart Marketplace item setup and optimization
-- Product listing creation and SEO
-- Parent/child variation setup
-- Bulk uploads, flat files, CSV and spreadsheet workflows
-- Marketplace error troubleshooting
-- Product data cleanup and normalization
-- Multi-channel catalog operations
-- Listing QA and process documentation
+I help eCommerce brands organize, optimize, troubleshoot, and scale marketplace catalogs. This portfolio demonstrates practical workflows for catalog management, listing optimization, product-data quality, bulk uploads, marketplace troubleshooting, and automation.
 
-### How I Work
+## Core Services
+
+### Amazon
+- Seller Central catalog management
+- Listing creation and optimization
+- Parent/child variation planning
+- Flat-file and bulk upload support
+- Catalog troubleshooting
+- Product-data QA
+
+### Walmart
+- Item setup and catalog management
+- Attribute mapping
+- Variant planning
+- Listing-quality improvement
+- Bulk spreadsheet workflows
+- Error troubleshooting
+
+### Multi-Channel eCommerce
+- Shopify and eBay catalog support
+- SKU and product-data consistency
+- CSV/Excel workflows
+- Marketplace migration support
+- Listing QA and SOP documentation
+
+## Featured Projects
+
+- [Amazon Listing Optimization](https://github.com/WassamWaheed/amazon-listing-optimization)
+- [Walmart Marketplace Operations](https://github.com/WassamWaheed/walmart-marketplace-operations)
+- [eCommerce Catalog Automation](https://github.com/WassamWaheed/ecommerce-catalog-automation)
+- [Marketplace Error Troubleshooting](https://github.com/WassamWaheed/marketplace-error-troubleshooting)
+- [Amazon Flat File Troubleshooting](https://github.com/WassamWaheed/amazon-flat-file-troubleshooting)
+- [Amazon Variation Management](https://github.com/WassamWaheed/amazon-variation-management)
+- [Product Data Cleaning Tools](https://github.com/WassamWaheed/product-data-cleaning-tools)
+
+## How I Work
+
 **Audit → Clean Data → Structure → Optimize → Upload → Troubleshoot → QA**
 
-### Featured GitHub Work
-- Amazon listing optimization
-- Amazon flat-file troubleshooting
-- Amazon variation management
-- Walmart marketplace operations
-- Walmart bulk upload templates
-- eCommerce catalog automation
-- Product data cleaning tools
-- Marketplace error troubleshooting
-- Multi-channel eCommerce workflows
+## Work With Me
 
-### Work With Me
-Upwork: https://www.upwork.com/freelancers/~0115a312ed543a19a1
+**Upwork:** https://www.upwork.com/freelancers/~0115a312ed543a19a1
 
-> Demo and anonymized data only. No client credentials or confidential marketplace information are published.
+> Portfolio examples use demo/anonymized data. Client credentials and confidential marketplace information are never published.
