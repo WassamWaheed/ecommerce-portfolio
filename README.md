@@ -31,6 +31,14 @@ I help eCommerce brands organize, optimize, troubleshoot, and scale marketplace 
 - Marketplace migration support
 - Listing QA and SOP documentation
 
+## Portfolio Resources
+
+- [Services & Client Fit](SERVICES.md)
+- [Representative Marketplace Case Studies](PORTFOLIO_CASES.md)
+- [Case Study Template](CASE_STUDY_TEMPLATE.md)
+- [Final Profile README Content](PROFILE_README_READY.md)
+- [Recommended Repository Metadata](REPOSITORY_METADATA.md)
+
 ## Featured Projects
 
 - [Amazon Listing Optimization](https://github.com/WassamWaheed/amazon-listing-optimization)
